@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/christinejohanson/Projects/Mom1punkt2/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/christinejohanson/Projects/Mom1punkt2/obj/Debug/net7.0/build-gz/CqdxPsdG.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/christinejohanson/Projects/Mom1punkt2/obj/Debug/net7.0/service-worker-assets.js",
+      "PackagePath": "staticwebassets/service-worker-assets.js"
+    },
+    {
+      "Id": "/Users/christinejohanson/Projects/Mom1punkt2/obj/Debug/net7.0/service-worker/service-worker.published.js",
+      "PackagePath": "staticwebassets/service-worker.js"
+    },
+    {
+      "Id": "/Users/christinejohanson/Projects/Mom1punkt2/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/christinejohanson/Projects/Mom1punkt2/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/christinejohanson/Projects/Mom1punkt2/wwwroot/css/main.css",
+      "PackagePath": "staticwebassets/css/main.css"
+    },
+    {
+      "Id": "/Users/christinejohanson/Projects/Mom1punkt2/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/christinejohanson/Projects/Mom1punkt2/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/christinejohanson/Projects/Mom1punkt2/wwwroot/icon-512.png",
+      "PackagePath": "staticwebassets/icon-512.png"
+    },
+    {
+      "Id": "/Users/christinejohanson/Projects/Mom1punkt2/wwwroot/img/logotype3.jpg",
+      "PackagePath": "staticwebassets/img/logotype3.jpg"
+    },
+    {
+      "Id": "/Users/christinejohanson/Projects/Mom1punkt2/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/christinejohanson/Projects/Mom1punkt2/wwwroot/manifest.json",
+      "PackagePath": "staticwebassets/manifest.json"
+    },
+    {
+      "Id": "/Users/christinejohanson/Projects/Mom1punkt2/wwwroot/sample-data/tvshows.json",
+      "PackagePath": "staticwebassets/sample-data/tvshows.json"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Mom1punkt2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Mom1punkt2.props",
+      "PackagePath": "build\\Mom1punkt2.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Mom1punkt2.props",
+      "PackagePath": "buildMultiTargeting\\Mom1punkt2.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Mom1punkt2.props",
+      "PackagePath": "buildTransitive\\Mom1punkt2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

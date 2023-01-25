@@ -1,0 +1,54 @@
+@page "/readdata"
+@inject HttpClient Http
+
+<PageTitle>ReadData</PageTitle>
+
+<h1>Moment 1.2 - Läs ut data</h1>
+
+@if (shows == null)
+{
+    <p>Laddar data...</p>
+}
+else
+{
+    <div style="overflow-x:auto;">
+    <table class="table">
+        <thead>
+
+            <th>Serie</th>
+            <th>Kanal</th>
+            <th>Sändningsdag</th>
+
+        </thead>
+        <tbody>
+            @foreach (var show in shows)
+                {
+                    <tr>
+                        <td>@show.name</td>
+                        <td>@show.channel</td>
+                        <td>@show.day</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+
+@code {
+    private Tvshow[]? shows;
+
+    //http anropet
+    protected override async Task OnInitializedAsync()
+    {
+        shows = await Http.GetFromJsonAsync<Tvshow[]>("sample-data/tvshows.json");
+    }
+
+    public class Tvshow
+    {
+        public string? name { get; set; }
+
+        public string? channel { get; set; }
+
+        public string? day { get; set; }
+    }
+}

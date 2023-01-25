@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>Mom1.2_Blazor</title>
+    <base href="/" />
+    <link href="css/main.css" rel="stylesheet" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+
+    <link href="manifest.json" rel="manifest" />
+    <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
+    <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
+  </head>
+
+  <body>
+    <div id="app">Laddar...</div>
+
+    <div id="blazor-error-ui">
+      Nå fel har hänt.
+      <a href="" class="reload">Reload</a>
+      <a class="dismiss">x</a>
+    </div>
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script>
+      navigator.serviceWorker.register("service-worker.js");
+    </script>
+  </body>
+</html>

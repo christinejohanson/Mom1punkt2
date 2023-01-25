@@ -1,0 +1,40 @@
+@page "/converter"
+
+<PageTitle>Converter</PageTitle>
+
+<h1>Moment 1.2 - Converter</h1>
+
+<h2>Först kör vi lite meter till fot. </h2>
+<label for="meters">Meter: </label>
+<input type="number" class="form-control" @bind="meters" />
+<br><br>
+<button @onclick="ConvertStringDecimal">Konvertera till fot.</button>
+
+<p>Det blir då alltså @feet i fot.</p>
+
+<h2>Och sen ska vi konvertera km/h till miles/hour. Lurigt!</h2>
+<label for="kilometers">Km/h: </label>
+<input type="number" class="form-control" @bind="kilometers" />
+<br><br>
+<button @onclick="ConvertKmToMiles">Konvertera till miles per hour.</button>
+<p>Det blir då @miles miles per hour</p>
+
+
+@code {
+    private double feet;
+    private double meters;
+    private double kilometers;
+    private double miles;
+
+    private void ConvertStringDecimal()
+    {
+
+        feet = (double)(3.281 * meters);
+        feet = Math.Round(feet, 2);
+    }
+
+    private void ConvertKmToMiles()
+    {
+        miles = (int)(kilometers / 1.609344);
+    }
+}

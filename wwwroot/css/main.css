@@ -1,0 +1,142 @@
+body {
+    background-color: rgb(234, 201, 206);
+
+}
+h1, h2, h3, p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+}
+
+header {
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 4%;
+    margin-top: 2%;
+}
+
+.topheader {
+    display: flex;
+    justify-content: space-between;
+    color: rgb(46, 45, 46);
+}
+
+.logotype {
+    width: 30%;
+    border: 2px solid rgb(174, 150, 155);
+}
+.datumruta {
+    width: 23%;
+    text-align: center;
+}
+.datumruta p {
+    font-family: monospace;
+    font-size: 0.8em;
+}
+
+.two_container {
+    background-color: blanchedalmond;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 2%;
+    display: flex;
+    justify-content: center;
+    border: 2px solid rgb(174, 150, 155);
+}
+
+/* menu settings */
+.leftmenu {
+    background-color:rgb(213, 207, 208);
+    box-sizing: border-box;
+    width: 32%;
+    padding: 2%;
+}
+
+.navmenues li {
+    font-family: monospace;
+    background-color: antiquewhite;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 3%;
+    padding: 2%;
+    text-align: center;
+    list-style: none;
+}
+
+
+.nav-link {
+    font-weight: bold;
+    color: rgb(46, 45, 46);
+    text-decoration: none;
+}
+.nav-link:active {
+    background-color: rgb(46, 45, 46);
+}
+
+.navmenues li:hover {
+    background-color: rgb(165, 163, 165);
+    color: antiquewhite;
+}
+
+
+.rightcontent {
+    background-color: antiquewhite;
+    width: 68%;
+    box-sizing: border-box;
+    padding: 2%;
+}
+
+ul {
+    padding-inline-start: 0;
+}
+
+label {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 0.8em;
+}
+
+/* tabellen */
+table {
+    font-family: Helvetica, Arial, sans-serif;
+        font-weight: lighter;
+}
+th {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+    width: 3%;
+    background-color: rgb(213, 207, 208);
+}
+td {
+    background-color: rgb(239, 233, 237);
+}
+
+/* footer */
+footer {
+    background-color: antiquewhite;
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 0.8em;
+    border: 2px solid rgb(174, 150, 155);
+}
+
+footer p {
+    padding: 2%;
+    margin-bottom: 0;
+    margin-block-start: 0;
+}
+
+/* error from index.html */
+#blazor-error-ui {
+    display: none;
+}
+
+@media only screen and (max-width: 650px) {
+    h1, h2, h3, p{
+        font-size: 0.8em;
+    }
+
+    .two_container {
+        width: 98%;
+    }
+}

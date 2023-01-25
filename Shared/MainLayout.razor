@@ -1,0 +1,32 @@
+﻿@inherits LayoutComponentBase
+
+<header>
+        <div class="topheader">
+            <img src="img/logotype3.jpg" class="logotype" alt="logotype razor" />
+
+  @{
+                var date = DateTime.Now.ToShortDateString();
+            }
+            <div class="datumruta">
+                <p>Dagens datum är: @date </p>
+            </div>
+
+        </div>
+</header>
+
+<div class="two_container">
+    <!-- menynavigering -->
+    <nav class="leftmenu">
+        <NavMenu />
+    </nav>
+
+    <!-- huvudinnehåll -->
+    <div class="rightcontent">
+        <main role="main" class="pb-3">
+            @Body
+        </main>
+    </div>
+</div>
+
+<!-- footer -->
+<Footer />
