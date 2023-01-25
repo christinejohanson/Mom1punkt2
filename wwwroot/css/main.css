@@ -136,7 +136,8 @@ footer p {
         font-size: 0.8em;
     }
 
-    .two_container {
+    .two_container, footer {
         width: 98%;
     }
+
 }

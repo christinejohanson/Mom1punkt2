@@ -9,7 +9,7 @@
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-TL0W71fohJ3rq4d99RtxZ48vDKwm4\/gxOhrRtb2mZek=",
+      "hash": "sha256-hf4AGl7W0QzlICoyCCZL0rKpXe\/phV6mcqLRztouW9c=",
       "url": "css\/main.css"
     },
     {
@@ -833,11 +833,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-UXVhBMipNuPg0KA761cpHtz0ZbOUro5kCLhaAfExeBs=",
+      "hash": "sha256-pvwhiKRxqmup2edfE5aoaAbAnQiaSQUUhW4XfYDJv1c=",
       "url": "_framework\/Mom1punkt2.dll"
     },
     {
-      "hash": "sha256-ui8EyXdO16knLNw93Wf05k92PI4p+6xfB0ZCDlwNtwQ=",
+      "hash": "sha256-I3Pne2tNVxYpvS2IRdBGCSfd4hDgosj\/DmHfv3sIwfw=",
       "url": "_framework\/Mom1punkt2.pdb"
     },
     {
@@ -845,9 +845,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-Pf+0ogmYfYDo7VKDHY\/gZ15YH94OLQ3ZoteCdr8M0nY=",
+      "hash": "sha256-W\/BXy5rxhV3GIgSnh\/MaykdKOtKBFQTFJmlTxHv27xU=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "D4LhdszW"
+  "version": "WiyKE2GE"
 };

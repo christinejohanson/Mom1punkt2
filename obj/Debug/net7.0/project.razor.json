@@ -203,6 +203,39 @@
         }
       },
       {
+        "HashCode": -2054567146,
+        "Kind": "Components.Component",
+        "Name": "Mom1punkt2.Pages.ReadData",
+        "AssemblyName": "Mom1punkt2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ReadData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Mom1punkt2.Pages.ReadData"
+        }
+      },
+      {
+        "HashCode": -1240926274,
+        "Kind": "Components.Component",
+        "Name": "Mom1punkt2.Pages.ReadData",
+        "AssemblyName": "Mom1punkt2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Mom1punkt2.Pages.ReadData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Mom1punkt2.Pages.ReadData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1496632175,
         "Kind": "Components.Component",
         "Name": "Mom1punkt2.Pages.Index",
@@ -232,39 +265,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Mom1punkt2.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 91977488,
-        "Kind": "Components.Component",
-        "Name": "Mom1punkt2.Pages.Counter",
-        "AssemblyName": "Mom1punkt2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Mom1punkt2.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -2051398008,
-        "Kind": "Components.Component",
-        "Name": "Mom1punkt2.Pages.Counter",
-        "AssemblyName": "Mom1punkt2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Mom1punkt2.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Mom1punkt2.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -302,35 +302,35 @@
         }
       },
       {
-        "HashCode": -2054567146,
+        "HashCode": 91977488,
         "Kind": "Components.Component",
-        "Name": "Mom1punkt2.Pages.ReadData",
+        "Name": "Mom1punkt2.Pages.Counter",
         "AssemblyName": "Mom1punkt2",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "ReadData"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Mom1punkt2.Pages.ReadData"
+          "Common.TypeName": "Mom1punkt2.Pages.Counter"
         }
       },
       {
-        "HashCode": -1240926274,
+        "HashCode": -2051398008,
         "Kind": "Components.Component",
-        "Name": "Mom1punkt2.Pages.ReadData",
+        "Name": "Mom1punkt2.Pages.Counter",
         "AssemblyName": "Mom1punkt2",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Mom1punkt2.Pages.ReadData"
+            "TagName": "Mom1punkt2.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Mom1punkt2.Pages.ReadData",
+          "Common.TypeName": "Mom1punkt2.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
