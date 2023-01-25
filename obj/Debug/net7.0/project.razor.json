@@ -9,6 +9,186 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 1348815400,
+        "Kind": "Components.Component",
+        "Name": "Mom1punkt2.Shared.Footer",
+        "AssemblyName": "Mom1punkt2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Footer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Mom1punkt2.Shared.Footer",
+          "Common.TypeNamespace": "Mom1punkt2.Shared",
+          "Common.TypeNameIdentifier": "Footer"
+        }
+      },
+      {
+        "HashCode": 465139228,
+        "Kind": "Components.Component",
+        "Name": "Mom1punkt2.Shared.Footer",
+        "AssemblyName": "Mom1punkt2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Mom1punkt2.Shared.Footer"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Mom1punkt2.Shared.Footer",
+          "Common.TypeNamespace": "Mom1punkt2.Shared",
+          "Common.TypeNameIdentifier": "Footer",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 821605685,
+        "Kind": "Components.Component",
+        "Name": "Mom1punkt2.Shared.MainLayout",
+        "AssemblyName": "Mom1punkt2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Mom1punkt2.Shared.MainLayout",
+          "Common.TypeNamespace": "Mom1punkt2.Shared",
+          "Common.TypeNameIdentifier": "MainLayout"
+        }
+      },
+      {
+        "HashCode": -459199245,
+        "Kind": "Components.Component",
+        "Name": "Mom1punkt2.Shared.MainLayout",
+        "AssemblyName": "Mom1punkt2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Mom1punkt2.Shared.MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Mom1punkt2.Shared.MainLayout",
+          "Common.TypeNamespace": "Mom1punkt2.Shared",
+          "Common.TypeNameIdentifier": "MainLayout",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -404374687,
+        "Kind": "Components.ChildContent",
+        "Name": "Mom1punkt2.Shared.MainLayout.Body",
+        "AssemblyName": "Mom1punkt2",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Mom1punkt2.Shared.MainLayout.Body",
+          "Common.TypeNamespace": "Mom1punkt2.Shared",
+          "Common.TypeNameIdentifier": "MainLayout",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -976752280,
+        "Kind": "Components.ChildContent",
+        "Name": "Mom1punkt2.Shared.MainLayout.Body",
+        "AssemblyName": "Mom1punkt2",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "Mom1punkt2.Shared.MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Mom1punkt2.Shared.MainLayout.Body",
+          "Common.TypeNamespace": "Mom1punkt2.Shared",
+          "Common.TypeNameIdentifier": "MainLayout",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1074583667,
+        "Kind": "Components.Component",
+        "Name": "Mom1punkt2.Shared.NavMenu",
+        "AssemblyName": "Mom1punkt2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Mom1punkt2.Shared.NavMenu",
+          "Common.TypeNamespace": "Mom1punkt2.Shared",
+          "Common.TypeNameIdentifier": "NavMenu"
+        }
+      },
+      {
+        "HashCode": 1122650262,
+        "Kind": "Components.Component",
+        "Name": "Mom1punkt2.Shared.NavMenu",
+        "AssemblyName": "Mom1punkt2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Mom1punkt2.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Mom1punkt2.Shared.NavMenu",
+          "Common.TypeNamespace": "Mom1punkt2.Shared",
+          "Common.TypeNameIdentifier": "NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 2051950706,
         "Kind": "Components.Component",
         "Name": "Mom1punkt2.App",
@@ -190,186 +370,6 @@
           "Common.TypeName": "Mom1punkt2.Pages.ReadData",
           "Common.TypeNamespace": "Mom1punkt2.Pages",
           "Common.TypeNameIdentifier": "ReadData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1348815400,
-        "Kind": "Components.Component",
-        "Name": "Mom1punkt2.Shared.Footer",
-        "AssemblyName": "Mom1punkt2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Footer"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Mom1punkt2.Shared.Footer",
-          "Common.TypeNamespace": "Mom1punkt2.Shared",
-          "Common.TypeNameIdentifier": "Footer"
-        }
-      },
-      {
-        "HashCode": 465139228,
-        "Kind": "Components.Component",
-        "Name": "Mom1punkt2.Shared.Footer",
-        "AssemblyName": "Mom1punkt2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Mom1punkt2.Shared.Footer"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Mom1punkt2.Shared.Footer",
-          "Common.TypeNamespace": "Mom1punkt2.Shared",
-          "Common.TypeNameIdentifier": "Footer",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 821605685,
-        "Kind": "Components.Component",
-        "Name": "Mom1punkt2.Shared.MainLayout",
-        "AssemblyName": "Mom1punkt2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MainLayout"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Mom1punkt2.Shared.MainLayout",
-          "Common.TypeNamespace": "Mom1punkt2.Shared",
-          "Common.TypeNameIdentifier": "MainLayout"
-        }
-      },
-      {
-        "HashCode": -459199245,
-        "Kind": "Components.Component",
-        "Name": "Mom1punkt2.Shared.MainLayout",
-        "AssemblyName": "Mom1punkt2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Mom1punkt2.Shared.MainLayout"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Mom1punkt2.Shared.MainLayout",
-          "Common.TypeNamespace": "Mom1punkt2.Shared",
-          "Common.TypeNameIdentifier": "MainLayout",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -404374687,
-        "Kind": "Components.ChildContent",
-        "Name": "Mom1punkt2.Shared.MainLayout.Body",
-        "AssemblyName": "Mom1punkt2",
-        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Body",
-            "ParentTag": "MainLayout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "Mom1punkt2.Shared.MainLayout.Body",
-          "Common.TypeNamespace": "Mom1punkt2.Shared",
-          "Common.TypeNameIdentifier": "MainLayout",
-          "Components.IsSpecialKind": "Components.ChildContent"
-        }
-      },
-      {
-        "HashCode": -976752280,
-        "Kind": "Components.ChildContent",
-        "Name": "Mom1punkt2.Shared.MainLayout.Body",
-        "AssemblyName": "Mom1punkt2",
-        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Body",
-            "ParentTag": "Mom1punkt2.Shared.MainLayout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "Mom1punkt2.Shared.MainLayout.Body",
-          "Common.TypeNamespace": "Mom1punkt2.Shared",
-          "Common.TypeNameIdentifier": "MainLayout",
-          "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1074583667,
-        "Kind": "Components.Component",
-        "Name": "Mom1punkt2.Shared.NavMenu",
-        "AssemblyName": "Mom1punkt2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Mom1punkt2.Shared.NavMenu",
-          "Common.TypeNamespace": "Mom1punkt2.Shared",
-          "Common.TypeNameIdentifier": "NavMenu"
-        }
-      },
-      {
-        "HashCode": 1122650262,
-        "Kind": "Components.Component",
-        "Name": "Mom1punkt2.Shared.NavMenu",
-        "AssemblyName": "Mom1punkt2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Mom1punkt2.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Mom1punkt2.Shared.NavMenu",
-          "Common.TypeNamespace": "Mom1punkt2.Shared",
-          "Common.TypeNameIdentifier": "NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
