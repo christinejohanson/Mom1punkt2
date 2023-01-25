@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jGIiDzPMCWZJwZmQ//9EOPMVnC6qHaJ0SnHidjYW1O8=",
+  "Hash": "pvVfx4ppZ5+AtQZ6KTThiAiuHdCQ1JFw1k8TTHrNIcc=",
   "Source": "Mom1punkt2",
   "BasePath": "/",
   "Mode": "Root",
@@ -6951,23 +6951,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/.DS_Store"
-    },
-    {
-      "Identity": "/Users/christinejohanson/Projects/Mom1punkt2/wwwroot/css/app.css",
-      "SourceId": "Mom1punkt2",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/christinejohanson/Projects/Mom1punkt2/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "css/app.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/css/app.css"
     },
     {
       "Identity": "/Users/christinejohanson/Projects/Mom1punkt2/wwwroot/css/main.css",

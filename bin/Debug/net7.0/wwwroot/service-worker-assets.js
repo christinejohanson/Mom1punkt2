@@ -5,10 +5,6 @@
       "url": ".DS_Store"
     },
     {
-      "hash": "sha256-uhotZszkBLq\/V8xt8UtpU6lGHEIqbqLsFUVGyelV2TU=",
-      "url": "css\/app.css"
-    },
-    {
       "hash": "sha256-hf4AGl7W0QzlICoyCCZL0rKpXe\/phV6mcqLRztouW9c=",
       "url": "css\/main.css"
     },
@@ -37,7 +33,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-15rQvfs8rCToA7ABMYFSUqcBbX2IwE2axH1dQMA+BfM=",
+      "hash": "sha256-Y1mbrjZMKBRn6GW4Lj8+13Dh\/BJYTZND9YkpajZr1u0=",
       "url": "sample-data\/tvshows.json"
     },
     {
@@ -833,11 +829,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-pvwhiKRxqmup2edfE5aoaAbAnQiaSQUUhW4XfYDJv1c=",
+      "hash": "sha256-q+y8sEmCe7VI30yw5RLAvJ7lGI7KQJkhNXuMjAzqKxI=",
       "url": "_framework\/Mom1punkt2.dll"
     },
     {
-      "hash": "sha256-I3Pne2tNVxYpvS2IRdBGCSfd4hDgosj\/DmHfv3sIwfw=",
+      "hash": "sha256-Bcu4O+vufcHrEGsiSDV+UIhswMo6VU+afMIVFqApNOI=",
       "url": "_framework\/Mom1punkt2.pdb"
     },
     {
@@ -845,9 +841,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-W\/BXy5rxhV3GIgSnh\/MaykdKOtKBFQTFJmlTxHv27xU=",
+      "hash": "sha256-Rq\/ZvX0AojW2UPSO+r0wvc2d6Sr01INXhJcbmo2S1mQ=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "WiyKE2GE"
+  "version": "FyIVKV0Z"
 };

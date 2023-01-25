@@ -1,6 +1,6 @@
 [
     {
-        "name": "spårlöst försvunnen",
+        "name": "mullvaden",
         "channel": "kanal5",
         "day": "lördag"
     },
@@ -8,5 +8,15 @@
         "name": "twin peaks",
         "channel": "tv3",
         "day": "söndag"
+    },
+     {
+        "name": "true detective",
+        "channel": "svt1",
+        "day": "fredag"
+    },
+     {
+        "name": "händelser vid vatten",
+        "channel": "svt2",
+        "day": "måndag"
     }
 ]
